@@ -174,7 +174,7 @@ Email
 [contact.ali.akbar.dev@gmail.com](mailto:contact.ali.akbar.dev@gmail.com)
 
 Portfolio
-https://a-dot.vercel.app
+https://ali-akbar.vercel.app
 
 LinkedIn
 https://www.linkedin.com/in/ali-akbar-6557a4270/
