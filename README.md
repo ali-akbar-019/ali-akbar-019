@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/LeetCode-Solving%20Daily-ea580c?style=flat-square&labelColor=1a1a1a&logo=leetcode&logoColor=ea580c"/>
 </p>
 
----
+<br/>
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ali-akbar-019&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ea580c&text_color=ffffff&border_color=333333&langs_count=6" width="320"/>
+<img align="right" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ali-akbar-019&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ea580c&text_color=ffffff&border_color=333333&langs_count=6" width="320"/>
 
 ### Who I Am
 
@@ -28,7 +28,7 @@ Full Stack Developer & Product Builder
 Based in Pakistan
 ```
 
-I build **AI-powered platforms**, **SaaS tools**, and **scalable web applications** from the ground up — architecture to deployment.
+I build **AI-powered platforms**, **SaaS tools**, and **scalable web applications** from the ground up - architecture to deployment.
 
 My focus is writing clean, production-grade code and shipping software that solves real problems for real users.
 
@@ -39,7 +39,7 @@ My focus is writing clean, production-grade code and shipping software that solv
 
 <br clear="right"/>
 
----
+<br/>
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ My focus is writing clean, production-grade code and shipping software that solv
 
 </p>
 
----
+<br/>
 
 ## Featured Projects
 
@@ -67,9 +67,9 @@ My focus is writing clean, production-grade code and shipping software that solv
 <tr>
 <td width="50%" valign="top">
 
-### [Botify — AI Chatbot SaaS](https://ai-chatbot-sass.vercel.app)
+### [Botify - AI Chatbot SaaS](https://ai-chatbot-sass.vercel.app)
 
-SaaS platform that lets local businesses **create and deploy AI chatbots in minutes** — zero code required. Businesses get a branded chatbot embedded on their site, handling customer queries automatically.
+SaaS platform that lets local businesses **create and deploy AI chatbots in minutes** - zero code required. Businesses get a branded chatbot embedded on their site, handling customer queries automatically.
 
 **Highlights**
 - No-code chatbot builder
@@ -84,7 +84,7 @@ SaaS platform that lets local businesses **create and deploy AI chatbots in minu
 </td>
 <td width="50%" valign="top">
 
-### AuraWear AI — E-Commerce Platform
+### AuraWear AI - E-Commerce Platform
 
 Full clothing store enhanced with **AI-powered product recommendations** via a Python microservice using DeepFace. Customers get intelligent suggestions based on image analysis.
 
@@ -101,7 +101,7 @@ Full clothing store enhanced with **AI-powered product recommendations** via a P
 <tr>
 <td width="50%" valign="top">
 
-### Cryptic — Jewelry & Fashion Store
+### Cryptic - Jewelry & Fashion Store
 
 Modern full-stack e-commerce store for rings and fashion products with a complete order and inventory management system.
 
@@ -116,7 +116,7 @@ Modern full-stack e-commerce store for rings and fashion products with a complet
 </td>
 <td width="50%" valign="top">
 
-### LogSentry — Log Monitoring Platform
+### LogSentry - Log Monitoring Platform
 
 Centralized platform to **collect, monitor, and track logs** from multiple applications in real time with error alerting.
 
@@ -134,7 +134,7 @@ Centralized platform to **collect, monitor, and track logs** from multiple appli
 
 ### University Timetable System
 
-Academic platform that **automatically generates smart timetables** based on courses, departments, rooms, and constraints — no manual scheduling needed.
+Academic platform that **automatically generates smart timetables** based on courses, departments, rooms, and constraints - no manual scheduling needed.
 
 **Highlights**
 - Conflict-free auto generation
@@ -153,7 +153,7 @@ Academic platform that **automatically generates smart timetables** based on cou
 </tr>
 </table>
 
----
+<br/>
 
 ## LeetCode
 
@@ -165,11 +165,11 @@ Academic platform that **automatically generates smart timetables** based on cou
 
 <p align="center">
 <a href="https://leetcode.com/u/OqOWLBVPJv/">
-<img src="https://leetcard.jacoblin.cool/OqOWLBVPJv?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=0&color=ea580c&labelColor=1a1a1a&bg=0d0d0d&title_color=ea580c"/>
+<img src="https://leetcard.jacoblin.cool/OqOWLBVPJv?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=0"/>
 </a>
 </p>
 
----
+<br/>
 
 ## GitHub Stats
 
@@ -177,7 +177,7 @@ Academic platform that **automatically generates smart timetables** based on cou
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-akbar-019&theme=dark&background=0d0d0d&ring=ea580c&fire=ea580c&currStreakLabel=ea580c&sideLabels=ea580c&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=333333&border=333333" height="175"/>
 </p>
 
----
+<br/>
 
 ## Activity Graph
 
@@ -185,7 +185,7 @@ Academic platform that **automatically generates smart timetables** based on cou
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-akbar-019&bg_color=0d0d0d&color=ea580c&line=ea580c&point=ffffff&area=true&area_color=ea580c&hide_border=false&border_color=333333&radius=0"/>
 </p>
 
----
+<br/>
 
 ## Contribution Snake
 
@@ -193,7 +193,7 @@ Academic platform that **automatically generates smart timetables** based on cou
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<br/>
 
 ## Contact
 
@@ -208,8 +208,6 @@ Academic platform that **automatically generates smart timetables** based on cou
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-ea580c?style=for-the-badge&logo=leetcode&logoColor=ea580c&labelColor=1a1a1a)](https://leetcode.com/u/OqOWLBVPJv/)
 
 </p>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ea580c,100:1a1a1a&section=footer"/>
