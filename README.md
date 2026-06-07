@@ -51,12 +51,37 @@ My focus is writing clean, production-grade code and shipping software that solv
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,prisma&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=dark&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,prisma,fastapi&theme=dark&perline=5"/>
+
+**AI & Testing Tools**
+
+<img src="https://skillicons.dev/icons?i=selenium,postman&theme=dark&perline=5"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Gemini-ea580c?style=flat-square&labelColor=1a1a1a&logo=google&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-ea580c?style=flat-square&labelColor=1a1a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-ea580c?style=flat-square&labelColor=1a1a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Qwen%20(OpenRouter)-ea580c?style=flat-square&labelColor=1a1a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TestNG-ea580c?style=flat-square&labelColor=1a1a1a&logo=testng&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JMeter-ea580c?style=flat-square&labelColor=1a1a1a&logo=apachejmeter&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Extent%20Reports-ea580c?style=flat-square&labelColor=1a1a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-ea580c?style=flat-square&labelColor=1a1a1a"/>
+</p>
+</p>
 
 **DevOps & Tools**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,vercel,linux,vscode&theme=dark&perline=5"/>
-
 </p>
 
 <br/>
@@ -80,6 +105,82 @@ SaaS platform that lets local businesses **create and deploy AI chatbots in minu
 **Stack** &nbsp;`Next.js` `Node.js` `MongoDB` `AI APIs`
 
 [![Live](https://img.shields.io/badge/Live%20Demo-ea580c?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ai-chatbot-sass.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### MediAssist AI - Medical Assistant Platform
+
+Full-stack AI-powered medical assistant with symptom analysis, AI chat, medicine info lookup, hospital finder, and downloadable medical reports.
+
+**Highlights**
+- Body-map symptom analyzer powered by Gemini
+- Persistent AI chat with session history
+- Nearby hospital finder (Pakistan DB)
+- PDF medical report generation
+- JWT auth + rate limiting
+
+**Stack** &nbsp;`React` `Vite` `Node.js` `FastAPI` `MongoDB` `Google Gemini`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CUST RAG Chatbot - University AI Assistant
+
+RAG-based AI chatbot built for **Capital University of Science & Technology** — answers university-related queries from a structured dataset with full auth, session management, and PDF upload.
+
+**Highlights**
+- RAG pipeline with ChromaDB vector store
+- Qwen model via OpenRouter API
+- Upload and query custom PDFs
+- ChatGPT-style new chats + session history
+- Full authentication system
+
+**Stack** &nbsp;`Python` `ChromaDB` `Qwen` `OpenRouter` `React` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
+
+</td>
+<td width="50%" valign="top">
+
+### AI Resume Analyzer
+
+Full-stack resume analysis tool that scores resumes against job descriptions, gives **ATS optimization suggestions**, and generates downloadable reports.
+
+**Highlights**
+- ATS score calculation with improvement tips
+- Gemini AI-powered resume parsing & feedback
+- Downloadable analysis reports
+- Spring Boot REST API backend
+- Python FastAPI AI microservice
+
+**Stack** &nbsp;`React` `Spring Boot` `Python` `Gemini AI` `MySQL` `XAMPP`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### OpenCart QA Suite - Full Testing Project
+
+Comprehensive quality assurance project on **OpenCart** covering all major testing disciplines with professional tooling and POM architecture.
+
+**Highlights**
+- UI & functional testing with Selenium + TestNG
+- API testing with Postman collections
+- Performance & load testing with JMeter
+- POM (Page Object Model) architecture
+- Extent Reports for detailed HTML test reports
+
+**Stack** &nbsp;`Selenium` `TestNG` `JMeter` `Postman` `Java` `Extent Reports`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
 
 </td>
 <td width="50%" valign="top">
