@@ -28,7 +28,7 @@ Full Stack Developer & Product Builder
 Based in Pakistan
 ```
 
-I build **AI-powered platforms**, **SaaS tools**, and **scalable web applications** from the ground up - architecture to deployment.
+I build **AI-powered platforms**, **multi-tenant SaaS tools**, and **scalable web applications** from the ground up - architecture to deployment.
 
 My focus is writing clean, production-grade code and shipping software that solves real problems for real users.
 
@@ -53,7 +53,9 @@ My focus is writing clean, production-grade code and shipping software that solv
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=dark&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,prisma,fastapi&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,spring,prisma,fastapi,postgres&theme=dark&perline=5"/>
+
+<img src="https://skillicons.dev/icons?i=redis,socketio,expo,reactnative&theme=dark&perline=5"/>
 
 **AI & Testing Tools**
 
@@ -92,6 +94,62 @@ My focus is writing clean, production-grade code and shipping software that solv
 <tr>
 <td width="50%" valign="top">
 
+### Veltrix - Multi-Tenant Credentialing SaaS Platform
+
+Multi-tenant healthcare credentialing platform where organizations register, get approved, and manage practices, providers, payer credentialing, documents, and compliance - fully isolated from every other tenant.
+
+**Highlights**
+- Unified entity model for practices, providers & billing providers
+- Payer credentialing with append-only activity timeline
+- Document vault on Cloudflare R2 with versioning
+- Compliance engine with auto-calculated due dates
+- Gemini-powered AI assistant, permission-filtered per user
+- Field-level encryption, TOTP MFA, full audit log
+
+**Stack** &nbsp;`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `Gemini AI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
+
+</td>
+<td width="50%" valign="top">
+
+### PartyPal - Full-Stack Event Planning Platform
+
+Mobile-first platform that brings event chat, polls, tasks, shared expenses, a music queue, and photo sharing into one shared event workspace for hosts, members, and guests.
+
+**Highlights**
+- Realtime chat & messaging via Socket.IO
+- Shared music queue with one vote per user per song
+- Task assignment, shared expenses & settlement tracking
+- QR-based event invitations & RSVP management
+- Host / Member / Guest roles enforced server-side
+
+**Stack** &nbsp;`React Native` `Expo` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [OnCalla Solutions - Website Redesign & SEO Platform](https://oncallasolutions.vercel.app/)
+
+Complete Next.js 16 rebuild of a company website spanning roughly 317,000 indexable URLs across service, industry, and location pages - built for search engine crawling and indexing at scale.
+
+**Highlights**
+- Unique metadata, canonical URLs & structured data per page template
+- 7-file XML sitemap system covering the full URL structure
+- Static generation for core pages, on-demand generation for city pages
+- Zero broken internal links across the reviewed route inventory
+
+**Stack** &nbsp;`Next.js 16` `App Router` `Structured Data` `XML Sitemaps`
+
+[![Live](https://img.shields.io/badge/Live%20Demo-ea580c?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://oncallasolutions.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
 ### [Botify - AI Chatbot SaaS](https://ai-chatbot-sass.vercel.app)
 
 SaaS platform that lets local businesses **create and deploy AI chatbots in minutes** - zero code required. Businesses get a branded chatbot embedded on their site, handling customer queries automatically.
@@ -107,6 +165,8 @@ SaaS platform that lets local businesses **create and deploy AI chatbots in minu
 [![Live](https://img.shields.io/badge/Live%20Demo-ea580c?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a1a)](https://ai-chatbot-sass.vercel.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### MediAssist AI - Medical Assistant Platform
@@ -125,8 +185,6 @@ Full-stack AI-powered medical assistant with symptom analysis, AI chat, medicine
 [![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### CUST RAG Chatbot - University AI Assistant
@@ -145,6 +203,8 @@ RAG-based AI chatbot built for **Capital University of Science & Technology** â€
 [![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AI Resume Analyzer
@@ -163,8 +223,6 @@ Full-stack resume analysis tool that scores resumes against job descriptions, gi
 [![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### OpenCart QA Suite - Full Testing Project
@@ -183,6 +241,8 @@ Comprehensive quality assurance project on **OpenCart** covering all major testi
 [![Repo](https://img.shields.io/badge/GitHub-Repo-ea580c?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/ali-akbar-019)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AuraWear AI - E-Commerce Platform
@@ -198,8 +258,6 @@ Full clothing store enhanced with **AI-powered product recommendations** via a P
 **Stack** &nbsp;`Next.js` `Node.js` `Python` `DeepFace` `MongoDB` `Stripe`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Cryptic - Jewelry & Fashion Store
@@ -215,6 +273,8 @@ Modern full-stack e-commerce store for rings and fashion products with a complet
 **Stack** &nbsp;`MERN` `Stripe` `Cloudinary` `Tailwind`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### LogSentry - Log Monitoring Platform
@@ -229,8 +289,6 @@ Centralized platform to **collect, monitor, and track logs** from multiple appli
 **Stack** &nbsp;`React` `Node.js` `MongoDB`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### University Timetable System
@@ -245,7 +303,9 @@ Academic platform that **automatically generates smart timetables** based on cou
 **Stack** &nbsp;`MERN` `Redux` `Tailwind`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" width="100%">
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-ea580c?style=for-the-badge&labelColor=1a1a1a"/>
